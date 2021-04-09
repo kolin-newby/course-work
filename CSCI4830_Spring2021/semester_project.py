@@ -1,12 +1,19 @@
 from microbit import *
 from neopixel import *
+import utime
 
 pixels = 16
+
 OFF = [0, 0, 0]
+
 RED = [10, 0, 0]
-RED_B = [50, 0, 0]
+RED_B = [30, 0, 0]
+
 GREEN = [0, 10, 0]
+GREEN_B = [0, 30, 0]
+
 YELLOW = [7, 3, 0]
+YELLOW_B = [21, 9, 0]
 
 ring = NeoPixel(pin2, pixels)
 
@@ -34,30 +41,34 @@ def range_finder(raw, mx):
 
 
 def read_pulse():
-    raw_pulse_data = pin0.read_analog()
-    mx = 1023
-    ranged_pulse_data = range_finder(raw_pulse_data, mx)
-    return ranged_pulse_data
+    return pin0.read_analog()
 
+beat_cnt = 0
+HR = 0
+start_time = utime.ticks_ms()
 
 while True:
-    top = read_pulse()
-    for i in range(0, 8):
-        if i <= top:
-            ring[i] = GREEN
-        else:
-            ring[i] = OFF
+    pulse = read_pulse()
+    ranged_pulse = range_finder(pulse, 1023)
 
+    if utime.ticks_diff(utime.ticks_ms(), start_time) >= 15000:
+        HR = beat_cnt * 4
+        beat_cnt = 0
+        start_time = utime.ticks_ms()
 
-    for i in range(8, 16):
-        ring[i] = RED
+    if pulse > 600:
+        for i in range(0, 8):
+            if i <= ranged_pulse:
+                ring[i] = GREEN_B
+            else:
+                ring[i] = OFF
+
+        beat_cnt += 1
+    else:
+        for i in range(0, 8):
+            if i <= ranged_pulse:
+                ring[i] = GREEN
+            else:
+                ring[i] = OFF
 
     ring.show()
-    sleep(50)
-
-
-    for i in range(8, 16):
-        ring[i] = RED_B
-
-    ring.show()
-    sleep(50)

@@ -17,8 +17,32 @@ YELLOW_B = [21, 9, 0]
 
 ring = NeoPixel(pin2, pixels)
 
+
+def startup():
+    BLUE = [50, 50, 50]
+    for i in range(0, 16):
+        ring[i] = BLUE
+        ring.show()
+        sleep(35)
+
+    for i in range(0, 16):
+        ring[i] = OFF
+        ring.show()
+        sleep(35)
+
+    for i in range(0, 16):
+        ring[i] = BLUE
+        ring.show()
+        sleep(35)
+
+    for i in range(0, 16):
+        ring[i] = OFF
+        ring.show()
+        sleep(35)
+
+
 def range_finder(raw, mx):
-    increment = ((mx * (1/8)) / mx) * 100
+    increment = ((mx * (1/16)) / mx) * 100
     reading = (raw/mx) * 100
 
 
@@ -38,8 +62,22 @@ def range_finder(raw, mx):
         return 6
     if reading > (increment * 7) and reading <= (increment * 8):
         return 7
+    if reading > (increment * 8) and reading <= (increment * 9):
+        return 8
+    if reading > (increment * 9) and reading <= (increment * 10):
+        return 9
+    if reading > (increment * 10) and reading <= (increment * 11):
+        return 10
+    if reading > (increment * 11) and reading <= (increment * 12):
+        return 11
+    if reading > (increment * 12) and reading <= (increment * 13):
+        return 12
+    if reading > (increment * 13) and reading <= (increment * 14):
+        return 13
+    if reading > (increment * 14) and reading <= (increment * 15):
+        return 14
     else:
-        return 7
+        return 15
 
 
 def read_pulse():
@@ -50,7 +88,10 @@ beat_cnt = 0
 HR = -1
 start_time = utime.ticks_ms()
 
+startup()
+cut_off = 650
 while True:
+
     pulse = read_pulse()
     if HR != -1:
         ranged_pulse = range_finder(HR, 180)
@@ -62,13 +103,17 @@ while True:
         beat_cnt = 0
         start_time = utime.ticks_ms()
 
-    if pulse > 625 and beat == False:
-        for i in range(0, 8):
+    if pulse > cut_off and beat == False:
+        for i in range(0, 16):
             if i <= ranged_pulse:
                 if ranged_pulse <= 1:
                     ring[i] = RED_B
-                elif ranged_pulse > 1 and ranged_pulse <= 5:
+                elif ranged_pulse > 1 and ranged_pulse <= 3:
+                    ring[i] = YELLOW_B
+                elif ranged_pulse > 3 and ranged_pulse <= 11:
                     ring[i] = GREEN_B
+                elif ranged_pulse > 11 and ranged_pulse <= 13:
+                    ring[i] = YELLOW_B
                 else:
                     ring[i] = RED_B
             else:
@@ -77,14 +122,18 @@ while True:
         beat = True
         beat_cnt += 1
     else:
-        if pulse < 500:
+        if pulse < cut_off:
             beat = False
-        for i in range(0, 8):
+        for i in range(0, 16):
             if i <= ranged_pulse:
                 if ranged_pulse <= 1:
                     ring[i] = RED
-                elif ranged_pulse > 1 and ranged_pulse <= 5:
+                elif ranged_pulse > 1 and ranged_pulse <= 3:
+                    ring[i] = YELLOW
+                elif ranged_pulse > 3 and ranged_pulse <= 11:
                     ring[i] = GREEN
+                elif ranged_pulse > 11 and ranged_pulse <= 13:
+                    ring[i] = YELLOW
                 else:
                     ring[i] = RED
             else:

@@ -1,0 +1,91 @@
+Zookeeper Amy arrives at the zoo Day 1.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 1.
+**************
+Zookeeper Amy arrives at the zoo Day 2.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 2.
+**************
+Zookeeper Amy arrives at the zoo Day 3.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 3.
+**************
+Zookeeper Amy arrives at the zoo Day 4.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 4.
+**************
+Zookeeper Amy arrives at the zoo Day 5.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 5.
+**************
+Zookeeper Amy arrives at the zoo Day 6.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 6.
+**************
+Zookeeper Amy arrives at the zoo Day 7.
+Zookeeper Amy wakes up Dave the Dog.
+Dave the Dog is now awake.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy roll calls Dave the Dog.
+Dave the Dog is making noise.
+Zookeeper Amy left the zoo Day 7.
+**************

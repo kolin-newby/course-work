@@ -1,0 +1,1615 @@
+
+Day 1
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 1 a Casual customer ordered: 
+1 Pastry Roll  2 Sausage Rolls  
+For $6.47
+On day 1 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 1 a Casual customer ordered: 
+1 Pastry Roll  1 Sausage Roll  1 Spring Roll  
+For $5.97
+On day 1 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 1 a Casual customer ordered: 
+2 Egg Rolls  
+For $3.98
+On day 1 a Casual customer ordered: 
+1 Spring Roll  1 Sausage Roll  
+For $3.48
+On day 1 a Catering customer ordered: 
+5 Jelly Rolls  5 Egg Rolls  5 Pastry Rolls  
+For $34.85
+On day 1 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 1 a Casual customer ordered: 
+1 Spring Roll  1 Jelly Roll  
+For $3.98
+On day 1 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 1 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 1 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 1 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 1 a Casual customer ordered: 
+2 Pastry Rolls  1 Jelly Roll  
+For $7.47
+On day 1 a Business customer ordered: 
+Nothing due to an outtage
+On day 1 a Casual customer ordered: 
+1 Jelly Roll  1 Spring Roll  1 Egg Roll  
+For $5.97
+
+Total Money Made Today: $290.62 
+Catering Sales: $34.85   Business Sales: $209.0   Casual Sales: $46.77
+
+Total Outages Today: 1 
+Catering Outages: 0   Business Outages: 1   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 4 Egg : 1 Pastry : 1 
+Sausage : 5 Jelly : 1 
+
+Inventory Restock Orders Per Roll: 
+Spring: 0 Egg: 0 Pastry: 0 
+Sausage: 0 Jelly: 0 
+
+Day 2
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 4 Egg : 1 Pastry : 1 
+Sausage : 5 Jelly : 1 
+End of Day
+Daily Customer Orders: 
+On day 2 a Casual customer ordered: 
+1 Spring Roll  1 Jelly Roll  1 Egg Roll  
+For $5.97
+On day 2 a Business customer ordered: 
+Nothing due to an outtage
+On day 2 a Casual customer ordered: 
+2 Spring Rolls  1 Pastry Roll  
+For $5.47
+On day 2 a Business customer ordered: 
+Nothing due to an outtage
+On day 2 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 2 a Business customer ordered: 
+Nothing due to an outtage
+On day 2 a Casual customer ordered: 
+2 Sausage Rolls  
+For $3.98
+On day 2 a Casual customer ordered: 
+3 Sausage Rolls  
+For $5.97
+
+Total Money Made Today: $313.5 
+Catering Sales: $0.0   Business Sales: $0.0   Casual Sales: $22.88
+
+Total Outages Today: 8 
+Catering Outages: 0   Business Outages: 3   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 0 Egg: 0 Pastry: 0 
+Sausage: 0 Jelly: 0 
+Closed due to no inventory.
+
+Day 3
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 3 a Casual customer ordered: 
+1 Jelly Roll  2 Sausage Rolls  
+For $6.47
+On day 3 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 3 a Catering customer ordered: 
+5 Jelly Rolls  5 Sausage Rolls  5 Pastry Rolls  
+For $34.85
+On day 3 a Casual customer ordered: 
+1 Sausage Roll  1 Jelly Roll  1 Spring Roll  
+For $5.97
+On day 3 a Catering customer ordered: 
+5 Jelly Rolls  5 Pastry Rolls  5 Spring Rolls  
+For $32.35
+On day 3 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 3 a Casual customer ordered: 
+2 Spring Rolls  1 Egg Roll  
+For $4.97
+On day 3 a Casual customer ordered: 
+1 Spring Roll  1 Egg Roll  
+For $3.48
+On day 3 a Catering customer ordered: 
+5 Egg Rolls  5 Sausage Rolls  5 Jelly Rolls  
+For $32.35
+On day 3 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  
+For $4.48
+
+Total Money Made Today: $544.91 
+Catering Sales: $99.55   Business Sales: $104.5   Casual Sales: $27.36
+
+Total Outages Today: 0 
+Catering Outages: 0   Business Outages: 0   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 11 Egg : 12 Pastry : 10 
+Sausage : 6 Jelly : 2 
+
+Inventory Restock Orders Per Roll: 
+Spring: 1 Egg: 1 Pastry: 1 
+Sausage: 1 Jelly: 1 
+Closed due to no inventory.
+
+Day 4
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 11 Egg : 12 Pastry : 10 
+Sausage : 6 Jelly : 2 
+End of Day
+Daily Customer Orders: 
+On day 4 a Casual customer ordered: 
+1 Spring Roll  2 Egg Rolls  
+For $5.47
+On day 4 a Business customer ordered: 
+Nothing due to an outtage
+On day 4 a Casual customer ordered: 
+2 Sausage Rolls  1 Egg Roll  
+For $5.97
+On day 4 a Catering customer ordered: 
+5 Pastry Rolls  5 Egg Rolls  5 Spring Rolls  
+For $29.85
+On day 4 a Catering customer ordered: 
+5 Pastry Rolls  5 Spring Rolls  2 Jelly Rolls  
+2 Sausage Rolls  1 Egg Roll  
+For $30.85
+On day 4 a Casual customer ordered: 
+2 Egg Rolls  1 Sausage Roll  
+For $5.97
+On day 4 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  
+For $3.98
+
+Total Money Made Today: $627.0 
+Catering Sales: $60.7   Business Sales: $0.0   Casual Sales: $21.39
+
+Total Outages Today: 4 
+Catering Outages: 1   Business Outages: 1   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 1 Egg: 1 Pastry: 1 
+Sausage: 1 Jelly: 1 
+Closed due to no inventory.
+
+Day 5
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 5 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 5 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  1 Spring Roll  
+For $5.47
+On day 5 a Casual customer ordered: 
+1 Sausage Roll  1 Jelly Roll  1 Spring Roll  
+For $5.97
+On day 5 a Catering customer ordered: 
+5 Spring Rolls  5 Jelly Rolls  5 Egg Rolls  
+For $29.85
+On day 5 a Casual customer ordered: 
+1 Jelly Roll  2 Pastry Rolls  
+For $7.47
+On day 5 a Casual customer ordered: 
+1 Egg Roll  1 Jelly Roll  
+For $4.48
+On day 5 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 5 a Catering customer ordered: 
+5 Sausage Rolls  7 Pastry Rolls  2 Jelly Rolls  
+1 Spring Roll  
+For $33.85
+
+Total Money Made Today: $923.09 
+Catering Sales: $63.7   Business Sales: $209.0   Casual Sales: $23.39
+
+Total Outages Today: 1 
+Catering Outages: 1   Business Outages: 0   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 2 Egg : 3 Pastry : 1 
+Sausage : 3 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 2 Egg: 2 Pastry: 2 
+Sausage: 2 Jelly: 2 
+Closed due to no inventory.
+
+Day 6
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 2 Egg : 3 Pastry : 1 
+Sausage : 3 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 6 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 6 a Casual customer ordered: 
+1 Pastry Roll  1 Spring Roll  1 Sausage Roll  
+For $5.97
+On day 6 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 6 a Casual customer ordered: 
+1 Sausage Roll  1 Jelly Roll  
+For $4.48
+On day 6 a Casual customer ordered: 
+1 Sausage Roll  1 Jelly Roll  1 Egg Roll  
+For $6.47
+On day 6 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 6 a Catering customer ordered: 
+13 Jelly Rolls  2 Egg Rolls  
+For $36.35
+On day 6 a Business customer ordered: 
+Nothing due to an outtage
+On day 6 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 6 a Business customer ordered: 
+Nothing due to an outtage
+On day 6 a Casual customer ordered: 
+3 Jelly Rolls  
+For $7.47
+On day 6 a Casual customer ordered: 
+3 Jelly Rolls  
+For $7.47
+On day 6 a Business customer ordered: 
+Nothing due to an outtage
+On day 6 a Casual customer ordered: 
+3 Jelly Rolls  
+For $7.47
+On day 6 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 6 a Casual customer ordered: 
+2 Jelly Rolls  
+For $4.98
+
+Total Money Made Today: $1015.2 
+Catering Sales: $36.35   Business Sales: $0.0   Casual Sales: $55.76
+
+Total Outages Today: 15 
+Catering Outages: 1   Business Outages: 3   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 2 Egg: 2 Pastry: 2 
+Sausage: 2 Jelly: 3 
+Closed due to no inventory.
+
+Day 7
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 7 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 7 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 7 a Casual customer ordered: 
+2 Jelly Rolls  1 Egg Roll  
+For $6.97
+On day 7 a Casual customer ordered: 
+2 Egg Rolls  1 Pastry Roll  
+For $6.47
+On day 7 a Casual customer ordered: 
+1 Sausage Roll  1 Pastry Roll  
+For $4.48
+On day 7 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 7 a Catering customer ordered: 
+5 Jelly Rolls  5 Sausage Rolls  5 Spring Rolls  
+For $29.85
+On day 7 a Casual customer ordered: 
+3 Spring Rolls  
+For $4.47
+On day 7 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+
+Total Money Made Today: $1177.91 
+Catering Sales: $29.85   Business Sales: $104.5   Casual Sales: $28.36
+
+Total Outages Today: 0 
+Catering Outages: 0   Business Outages: 0   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 11 Egg : 16 Pastry : 17 
+Sausage : 14 Jelly : 13 
+
+Inventory Restock Orders Per Roll: 
+Spring: 3 Egg: 3 Pastry: 3 
+Sausage: 3 Jelly: 4 
+Closed due to no inventory.
+
+Day 8
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 11 Egg : 16 Pastry : 17 
+Sausage : 14 Jelly : 13 
+End of Day
+Daily Customer Orders: 
+On day 8 a Casual customer ordered: 
+1 Spring Roll  1 Sausage Roll  
+For $3.48
+On day 8 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 8 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 8 a Casual customer ordered: 
+2 Sausage Rolls  1 Jelly Roll  
+For $6.47
+On day 8 a Casual customer ordered: 
+1 Jelly Roll  2 Egg Rolls  
+For $6.47
+On day 8 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 8 a Business customer ordered: 
+Nothing due to an outtage
+On day 8 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  
+For $4.48
+On day 8 a Casual customer ordered: 
+2 Pastry Rolls  1 Sausage Roll  
+For $6.97
+On day 8 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 8 a Casual customer ordered: 
+3 Pastry Rolls  
+For $7.47
+On day 8 a Catering customer ordered: 
+2 Pastry Rolls  
+For $4.98
+
+Total Money Made Today: $1328.7 
+Catering Sales: $4.98   Business Sales: $104.5   Casual Sales: $41.31
+
+Total Outages Today: 10 
+Catering Outages: 1   Business Outages: 1   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 3 Egg: 3 Pastry: 3 
+Sausage: 3 Jelly: 4 
+Closed due to no inventory.
+
+Day 9
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 9 a Casual customer ordered: 
+1 Pastry Roll  1 Sausage Roll  1 Egg Roll  
+For $6.47
+On day 9 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 9 a Casual customer ordered: 
+1 Egg Roll  1 Pastry Roll  1 Sausage Roll  
+For $6.47
+On day 9 a Casual customer ordered: 
+1 Jelly Roll  2 Sausage Rolls  
+For $6.47
+On day 9 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 9 a Catering customer ordered: 
+5 Sausage Rolls  5 Jelly Rolls  5 Spring Rolls  
+For $29.85
+On day 9 a Catering customer ordered: 
+5 Jelly Rolls  5 Pastry Rolls  5 Egg Rolls  
+For $34.85
+On day 9 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 9 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 9 a Casual customer ordered: 
+1 Egg Roll  1 Spring Roll  
+For $3.48
+
+Total Money Made Today: $1527.76 
+Catering Sales: $64.7   Business Sales: $104.5   Casual Sales: $29.86
+
+Total Outages Today: 0 
+Catering Outages: 0   Business Outages: 0   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 14 Egg : 12 Pastry : 11 
+Sausage : 10 Jelly : 9 
+
+Inventory Restock Orders Per Roll: 
+Spring: 4 Egg: 4 Pastry: 4 
+Sausage: 4 Jelly: 5 
+Closed due to no inventory.
+
+Day 10
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 14 Egg : 12 Pastry : 11 
+Sausage : 10 Jelly : 9 
+End of Day
+Daily Customer Orders: 
+On day 10 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 10 a Catering customer ordered: 
+5 Pastry Rolls  5 Jelly Rolls  5 Sausage Rolls  
+For $34.85
+On day 10 a Business customer ordered: 
+Nothing due to an outtage
+On day 10 a Business customer ordered: 
+Nothing due to an outtage
+On day 10 a Business customer ordered: 
+Nothing due to an outtage
+
+Total Money Made Today: $1565.1 
+Catering Sales: $34.85   Business Sales: $0.0   Casual Sales: $2.49
+
+Total Outages Today: 3 
+Catering Outages: 0   Business Outages: 3   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 14 Egg : 12 Pastry : 5 
+Sausage : 5 Jelly : 4 
+
+Inventory Restock Orders Per Roll: 
+Spring: 4 Egg: 4 Pastry: 4 
+Sausage: 4 Jelly: 5 
+Closed due to no inventory.
+
+Day 11
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 14 Egg : 12 Pastry : 5 
+Sausage : 5 Jelly : 4 
+End of Day
+Daily Customer Orders: 
+On day 11 a Casual customer ordered: 
+1 Egg Roll  1 Sausage Roll  
+For $3.98
+On day 11 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  
+For $3.98
+On day 11 a Catering customer ordered: 
+5 Spring Rolls  5 Egg Rolls  4 Jelly Rolls  
+1 Pastry Roll  
+For $29.85
+On day 11 a Business customer ordered: 
+Nothing due to an outtage
+On day 11 a Casual customer ordered: 
+1 Egg Roll  1 Pastry Roll  
+For $4.48
+On day 11 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 11 a Casual customer ordered: 
+1 Egg Roll  1 Sausage Roll  
+For $3.98
+On day 11 a Business customer ordered: 
+Nothing due to an outtage
+On day 11 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 11 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  
+For $3.98
+On day 11 a Catering customer ordered: 
+9 Spring Rolls  2 Egg Rolls  2 Pastry Rolls  
+For $22.37
+
+Total Money Made Today: $1642.2 
+Catering Sales: $52.22   Business Sales: $0.0   Casual Sales: $24.88
+
+Total Outages Today: 9 
+Catering Outages: 2   Business Outages: 2   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 4 Egg: 4 Pastry: 4 
+Sausage: 4 Jelly: 5 
+Closed due to no inventory.
+
+Day 12
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 12 a Catering customer ordered: 
+5 Pastry Rolls  5 Spring Rolls  5 Sausage Rolls  
+For $29.85
+On day 12 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 12 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 12 a Catering customer ordered: 
+5 Jelly Rolls  5 Egg Rolls  5 Sausage Rolls  
+For $32.35
+On day 12 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 12 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 12 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 12 a Catering customer ordered: 
+4 Jelly Rolls  4 Egg Rolls  3 Spring Rolls  
+4 Pastry Rolls  
+For $32.35
+On day 12 a Business customer ordered: 
+Nothing due to an outtage
+On day 12 a Casual customer ordered: 
+2 Spring Rolls  
+For $2.98
+
+Total Money Made Today: $1955.7 
+Catering Sales: $94.55   Business Sales: $209.0   Casual Sales: $9.95
+
+Total Outages Today: 5 
+Catering Outages: 1   Business Outages: 1   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 5 Egg: 5 Pastry: 5 
+Sausage: 5 Jelly: 6 
+Closed due to no inventory.
+
+Day 13
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 13 a Casual customer ordered: 
+2 Spring Rolls  1 Sausage Roll  
+For $4.97
+On day 13 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 13 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 13 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 13 a Casual customer ordered: 
+1 Jelly Roll  1 Pastry Roll  
+For $4.98
+On day 13 a Catering customer ordered: 
+5 Jelly Rolls  5 Egg Rolls  5 Spring Rolls  
+For $29.85
+On day 13 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 13 a Casual customer ordered: 
+1 Jelly Roll  2 Egg Rolls  
+For $6.47
+On day 13 a Catering customer ordered: 
+5 Sausage Rolls  5 Egg Rolls  5 Pastry Rolls  
+For $32.35
+On day 13 a Casual customer ordered: 
+1 Jelly Roll  1 Pastry Roll  
+For $4.98
+On day 13 a Casual customer ordered: 
+1 Sausage Roll  1 Pastry Roll  1 Spring Roll  
+For $5.97
+On day 13 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+
+Total Money Made Today: $2158.23 
+Catering Sales: $62.2   Business Sales: $104.5   Casual Sales: $35.83
+
+Total Outages Today: 0 
+Catering Outages: 0   Business Outages: 0   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 12 Egg : 8 Pastry : 11 
+Sausage : 10 Jelly : 12 
+
+Inventory Restock Orders Per Roll: 
+Spring: 6 Egg: 6 Pastry: 6 
+Sausage: 6 Jelly: 7 
+Closed due to no inventory.
+
+Day 14
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 12 Egg : 8 Pastry : 11 
+Sausage : 10 Jelly : 12 
+End of Day
+Daily Customer Orders: 
+On day 14 a Casual customer ordered: 
+1 Egg Roll  2 Sausage Rolls  
+For $5.97
+On day 14 a Business customer ordered: 
+Nothing due to an outtage
+On day 14 a Casual customer ordered: 
+1 Sausage Roll  1 Spring Roll  
+For $3.48
+On day 14 a Casual customer ordered: 
+2 Pastry Rolls  
+For $4.98
+On day 14 a Casual customer ordered: 
+1 Egg Roll  2 Sausage Rolls  
+For $5.97
+On day 14 a Casual customer ordered: 
+1 Spring Roll  1 Egg Roll  
+For $3.48
+On day 14 a Casual customer ordered: 
+1 Pastry Roll  1 Sausage Roll  
+For $4.48
+On day 14 a Casual customer ordered: 
+1 Jelly Roll  1 Spring Roll  
+For $3.98
+On day 14 a Casual customer ordered: 
+1 Egg Roll  2 Sausage Rolls  
+For $5.97
+On day 14 a Casual customer ordered: 
+2 Spring Rolls  1 Jelly Roll  
+For $5.47
+On day 14 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 14 a Catering customer ordered: 
+5 Pastry Rolls  5 Jelly Rolls  5 Spring Rolls  
+For $32.35
+On day 14 a Business customer ordered: 
+Nothing due to an outtage
+
+Total Money Made Today: $2235.85 
+Catering Sales: $32.35   Business Sales: $0.0   Casual Sales: $45.27
+
+Total Outages Today: 2 
+Catering Outages: 0   Business Outages: 2   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 1 Egg : 4 Pastry : 3 
+Sausage : 2 Jelly : 5 
+
+Inventory Restock Orders Per Roll: 
+Spring: 6 Egg: 6 Pastry: 6 
+Sausage: 6 Jelly: 7 
+Closed due to no inventory.
+
+Day 15
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 1 Egg : 4 Pastry : 3 
+Sausage : 2 Jelly : 5 
+End of Day
+Daily Customer Orders: 
+On day 15 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 15 a Casual customer ordered: 
+2 Sausage Rolls  1 Spring Roll  
+For $5.47
+On day 15 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 15 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  
+For $4.48
+On day 15 a Business customer ordered: 
+Nothing due to an outtage
+On day 15 a Catering customer ordered: 
+3 Pastry Rolls  3 Egg Rolls  2 Jelly Rolls  
+For $18.42
+
+Total Money Made Today: $2269.2 
+Catering Sales: $18.42   Business Sales: $0.0   Casual Sales: $14.93
+
+Total Outages Today: 5 
+Catering Outages: 1   Business Outages: 1   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 6 Egg: 6 Pastry: 6 
+Sausage: 6 Jelly: 7 
+Closed due to no inventory.
+
+Day 16
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 16 a Casual customer ordered: 
+1 Jelly Roll  1 Pastry Roll  
+For $4.98
+On day 16 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 16 a Casual customer ordered: 
+1 Spring Roll  1 Pastry Roll  
+For $3.98
+On day 16 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 16 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 16 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 16 a Casual customer ordered: 
+1 Spring Roll  1 Pastry Roll  1 Jelly Roll  
+For $6.47
+On day 16 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 16 a Casual customer ordered: 
+1 Egg Roll  1 Pastry Roll  
+For $4.48
+On day 16 a Casual customer ordered: 
+2 Jelly Rolls  1 Spring Roll  
+For $6.47
+On day 16 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 16 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 16 a Catering customer ordered: 
+5 Spring Rolls  5 Sausage Rolls  5 Egg Rolls  
+For $27.35
+On day 16 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+
+Total Money Made Today: $2544.37 
+Catering Sales: $27.35   Business Sales: $209.0   Casual Sales: $38.82
+
+Total Outages Today: 1 
+Catering Outages: 0   Business Outages: 0   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 4 Pastry : 5 
+Sausage : 4 Jelly : 4 
+
+Inventory Restock Orders Per Roll: 
+Spring: 7 Egg: 7 Pastry: 7 
+Sausage: 7 Jelly: 8 
+Closed due to no inventory.
+
+Day 17
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 4 Pastry : 5 
+Sausage : 4 Jelly : 4 
+End of Day
+Daily Customer Orders: 
+On day 17 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 17 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 17 a Catering customer ordered: 
+8 Spring Rolls  3 Jelly Rolls  4 Pastry Rolls  
+For $29.35
+On day 17 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 17 a Business customer ordered: 
+Nothing due to an outtage
+On day 17 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 17 a Catering customer ordered: 
+10 Spring Rolls  2 Egg Rolls  3 Sausage Rolls  
+For $24.85
+
+Total Money Made Today: $2607.53 
+Catering Sales: $54.2   Business Sales: $0.0   Casual Sales: $8.96
+
+Total Outages Today: 5 
+Catering Outages: 2   Business Outages: 1   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 12 Egg : 0 Pastry : 0 
+Sausage : 1 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 8 Egg: 7 Pastry: 7 
+Sausage: 7 Jelly: 8 
+Closed due to no inventory.
+
+Day 18
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 12 Egg : 30 Pastry : 30 
+Sausage : 1 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 18 a Casual customer ordered: 
+1 Pastry Roll  1 Egg Roll  1 Spring Roll  
+For $5.97
+On day 18 a Catering customer ordered: 
+5 Pastry Rolls  5 Spring Rolls  5 Egg Rolls  
+For $29.85
+On day 18 a Casual customer ordered: 
+2 Pastry Rolls  
+For $4.98
+On day 18 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 18 a Casual customer ordered: 
+1 Sausage Roll  1 Pastry Roll  
+For $4.48
+On day 18 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 18 a Business customer ordered: 
+Nothing due to an outtage
+On day 18 a Casual customer ordered: 
+3 Spring Rolls  
+For $4.47
+
+Total Money Made Today: $2662.26 
+Catering Sales: $29.85   Business Sales: $0.0   Casual Sales: $24.88
+
+Total Outages Today: 4 
+Catering Outages: 0   Business Outages: 1   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 3 Egg : 24 Pastry : 20 
+Sausage : 0 Jelly : 29 
+
+Inventory Restock Orders Per Roll: 
+Spring: 8 Egg: 8 Pastry: 8 
+Sausage: 7 Jelly: 9 
+Closed due to no inventory.
+
+Day 19
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 3 Egg : 24 Pastry : 20 
+Sausage : 30 Jelly : 29 
+End of Day
+Daily Customer Orders: 
+On day 19 a Casual customer ordered: 
+1 Sausage Roll  1 Pastry Roll  
+For $4.48
+On day 19 a Casual customer ordered: 
+1 Sausage Roll  2 Pastry Rolls  
+For $6.97
+On day 19 a Catering customer ordered: 
+5 Sausage Rolls  5 Egg Rolls  5 Jelly Rolls  
+For $32.35
+On day 19 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 19 a Business customer ordered: 
+Nothing due to an outtage
+On day 19 a Casual customer ordered: 
+2 Egg Rolls  1 Spring Roll  
+For $5.47
+On day 19 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  1 Pastry Roll  
+For $6.97
+On day 19 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  1 Jelly Roll  
+For $6.47
+On day 19 a Catering customer ordered: 
+5 Pastry Rolls  5 Sausage Rolls  5 Egg Rolls  
+For $32.35
+On day 19 a Business customer ordered: 
+Nothing due to an outtage
+
+Total Money Made Today: $2758.81 
+Catering Sales: $64.7   Business Sales: $0.0   Casual Sales: $31.85
+
+Total Outages Today: 2 
+Catering Outages: 0   Business Outages: 2   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 1 Egg : 10 Pastry : 11 
+Sausage : 17 Jelly : 22 
+
+Inventory Restock Orders Per Roll: 
+Spring: 8 Egg: 8 Pastry: 8 
+Sausage: 8 Jelly: 9 
+Closed due to no inventory.
+
+Day 20
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 1 Egg : 10 Pastry : 11 
+Sausage : 17 Jelly : 22 
+End of Day
+Daily Customer Orders: 
+On day 20 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  
+For $4.48
+On day 20 a Casual customer ordered: 
+2 Sausage Rolls  1 Pastry Roll  
+For $6.47
+On day 20 a Business customer ordered: 
+Nothing due to an outtage
+On day 20 a Catering customer ordered: 
+5 Pastry Rolls  5 Sausage Rolls  5 Egg Rolls  
+For $32.35
+On day 20 a Business customer ordered: 
+Nothing due to an outtage
+On day 20 a Catering customer ordered: 
+7 Jelly Rolls  5 Sausage Rolls  2 Pastry Rolls  
+1 Spring Roll  
+For $33.85
+On day 20 a Catering customer ordered: 
+9 Jelly Rolls  1 Pastry Roll  3 Egg Rolls  
+2 Sausage Rolls  
+For $34.85
+
+Total Money Made Today: $2870.81 
+Catering Sales: $101.05   Business Sales: $0.0   Casual Sales: $10.95
+
+Total Outages Today: 4 
+Catering Outages: 2   Business Outages: 2   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 1 Pastry : 2 
+Sausage : 3 Jelly : 5 
+
+Inventory Restock Orders Per Roll: 
+Spring: 8 Egg: 8 Pastry: 8 
+Sausage: 8 Jelly: 9 
+Closed due to no inventory.
+
+Day 21
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 1 Pastry : 2 
+Sausage : 3 Jelly : 5 
+End of Day
+Daily Customer Orders: 
+On day 21 a Business customer ordered: 
+Nothing due to an outtage
+On day 21 a Catering customer ordered: 
+9 Spring Rolls  1 Egg Roll  3 Jelly Rolls  
+1 Sausage Roll  1 Pastry Roll  
+For $27.35
+On day 21 a Business customer ordered: 
+Nothing due to an outtage
+On day 21 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 21 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 21 a Casual customer ordered: 
+1 Sausage Roll  1 Jelly Roll  1 Spring Roll  
+For $5.97
+On day 21 a Business customer ordered: 
+Nothing due to an outtage
+On day 21 a Catering customer ordered: 
+13 Spring Rolls  1 Sausage Roll  1 Jelly Roll  
+For $23.85
+On day 21 a Casual customer ordered: 
+3 Spring Rolls  
+For $4.47
+On day 21 a Catering customer ordered: 
+3 Spring Rolls  
+For $4.47
+
+Total Money Made Today: $2940.9 
+Catering Sales: $55.67   Business Sales: $0.0   Casual Sales: $14.42
+
+Total Outages Today: 10 
+Catering Outages: 3   Business Outages: 3   Casual Outages: 3
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 9 Egg: 8 Pastry: 8 
+Sausage: 8 Jelly: 9 
+Closed due to no inventory.
+
+Day 22
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 22 a Catering customer ordered: 
+5 Egg Rolls  5 Pastry Rolls  5 Jelly Rolls  
+For $34.85
+On day 22 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 22 a Casual customer ordered: 
+1 Pastry Roll  1 Egg Roll  1 Spring Roll  
+For $5.97
+On day 22 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+
+Total Money Made Today: $3190.72 
+Catering Sales: $34.85   Business Sales: $209.0   Casual Sales: $5.97
+
+Total Outages Today: 0 
+Catering Outages: 0   Business Outages: 0   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 9 Egg : 4 Pastry : 4 
+Sausage : 10 Jelly : 5 
+
+Inventory Restock Orders Per Roll: 
+Spring: 10 Egg: 9 Pastry: 9 
+Sausage: 9 Jelly: 10 
+Closed due to no inventory.
+
+Day 23
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 9 Egg : 4 Pastry : 4 
+Sausage : 10 Jelly : 5 
+End of Day
+Daily Customer Orders: 
+On day 23 a Casual customer ordered: 
+1 Sausage Roll  2 Spring Rolls  
+For $4.97
+On day 23 a Casual customer ordered: 
+1 Pastry Roll  1 Egg Roll  1 Spring Roll  
+For $5.97
+On day 23 a Business customer ordered: 
+Nothing due to an outtage
+On day 23 a Catering customer ordered: 
+5 Sausage Rolls  6 Spring Rolls  2 Pastry Rolls  
+1 Jelly Roll  1 Egg Roll  
+For $28.35
+On day 23 a Casual customer ordered: 
+1 Pastry Roll  1 Jelly Roll  
+For $4.98
+On day 23 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 23 a Casual customer ordered: 
+1 Sausage Roll  2 Egg Rolls  
+For $5.97
+On day 23 a Catering customer ordered: 
+2 Sausage Rolls  3 Jelly Rolls  
+For $11.45
+
+Total Money Made Today: $3254.4 
+Catering Sales: $39.8   Business Sales: $0.0   Casual Sales: $23.88
+
+Total Outages Today: 6 
+Catering Outages: 2   Business Outages: 1   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 10 Egg: 9 Pastry: 9 
+Sausage: 9 Jelly: 10 
+Closed due to no inventory.
+
+Day 24
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 24 a Catering customer ordered: 
+5 Sausage Rolls  5 Spring Rolls  5 Pastry Rolls  
+For $29.85
+On day 24 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 24 a Catering customer ordered: 
+5 Egg Rolls  5 Pastry Rolls  5 Jelly Rolls  
+For $34.85
+On day 24 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 24 a Catering customer ordered: 
+4 Egg Rolls  4 Spring Rolls  2 Sausage Rolls  
+5 Jelly Rolls  
+For $30.35
+On day 24 a Casual customer ordered: 
+1 Egg Roll  1 Sausage Roll  1 Spring Roll  
+For $5.47
+On day 24 a Business customer ordered: 
+Nothing due to an outtage
+
+Total Money Made Today: $3563.92 
+Catering Sales: $95.05   Business Sales: $209.0   Casual Sales: $5.47
+
+Total Outages Today: 3 
+Catering Outages: 1   Business Outages: 1   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 2 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 11 Egg: 10 Pastry: 10 
+Sausage: 10 Jelly: 11 
+Closed due to no inventory.
+
+Day 25
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 2 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 25 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 25 a Casual customer ordered: 
+1 Sausage Roll  1 Pastry Roll  1 Jelly Roll  
+For $6.97
+On day 25 a Catering customer ordered: 
+5 Pastry Rolls  5 Jelly Rolls  5 Egg Rolls  
+For $34.85
+On day 25 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 25 a Casual customer ordered: 
+1 Pastry Roll  1 Spring Roll  
+For $3.98
+On day 25 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 25 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 25 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  
+For $4.48
+On day 25 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  
+For $4.48
+On day 25 a Casual customer ordered: 
+1 Spring Roll  1 Pastry Roll  
+For $3.98
+On day 25 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 25 a Business customer ordered: 
+Nothing due to an outtage
+On day 25 a Casual customer ordered: 
+1 Spring Roll  1 Pastry Roll  
+For $3.98
+
+Total Money Made Today: $3636.59 
+Catering Sales: $34.85   Business Sales: $0.0   Casual Sales: $37.82
+
+Total Outages Today: 8 
+Catering Outages: 0   Business Outages: 1   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 25 Egg : 23 Pastry : 19 
+Sausage : 0 Jelly : 22 
+
+Inventory Restock Orders Per Roll: 
+Spring: 12 Egg: 11 Pastry: 11 
+Sausage: 10 Jelly: 12 
+Closed due to no inventory.
+
+Day 26
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 25 Egg : 23 Pastry : 19 
+Sausage : 30 Jelly : 22 
+End of Day
+Daily Customer Orders: 
+On day 26 a Casual customer ordered: 
+2 Sausage Rolls  
+For $3.98
+On day 26 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 26 a Casual customer ordered: 
+1 Pastry Roll  1 Spring Roll  
+For $3.98
+On day 26 a Casual customer ordered: 
+1 Egg Roll  2 Jelly Rolls  
+For $6.97
+On day 26 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 26 a Business customer ordered: 
+Nothing due to an outtage
+On day 26 a Casual customer ordered: 
+1 Egg Roll  1 Sausage Roll  
+For $3.98
+On day 26 a Casual customer ordered: 
+1 Jelly Roll  
+For $2.49
+On day 26 a Catering customer ordered: 
+5 Sausage Rolls  5 Spring Rolls  5 Egg Rolls  
+For $27.35
+On day 26 a Casual customer ordered: 
+1 Spring Roll  
+For $1.49
+On day 26 a Casual customer ordered: 
+1 Spring Roll  1 Egg Roll  
+For $3.48
+
+Total Money Made Today: $3796.3 
+Catering Sales: $27.35   Business Sales: $104.5   Casual Sales: $27.86
+
+Total Outages Today: 1 
+Catering Outages: 0   Business Outages: 1   Casual Outages: 0
+
+Inventory Stocks Per Roll: 
+Spring : 6 Egg : 5 Pastry : 8 
+Sausage : 12 Jelly : 9 
+
+Inventory Restock Orders Per Roll: 
+Spring: 12 Egg: 11 Pastry: 11 
+Sausage: 11 Jelly: 12 
+Closed due to no inventory.
+
+Day 27
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 6 Egg : 5 Pastry : 8 
+Sausage : 12 Jelly : 9 
+End of Day
+Daily Customer Orders: 
+On day 27 a Catering customer ordered: 
+5 Spring Rolls  5 Pastry Rolls  5 Jelly Rolls  
+For $32.35
+On day 27 a Business customer ordered: 
+Nothing due to an outtage
+On day 27 a Business customer ordered: 
+Nothing due to an outtage
+On day 27 a Catering customer ordered: 
+6 Sausage Rolls  2 Pastry Rolls  4 Jelly Rolls  
+1 Spring Roll  2 Egg Rolls  
+For $32.35
+On day 27 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  
+For $3.98
+On day 27 a Casual customer ordered: 
+1 Egg Roll  1 Pastry Roll  1 Sausage Roll  
+For $6.47
+On day 27 a Catering customer ordered: 
+1 Egg Roll  4 Sausage Rolls  
+For $9.95
+
+Total Money Made Today: $3881.4 
+Catering Sales: $74.65   Business Sales: $0.0   Casual Sales: $10.45
+
+Total Outages Today: 6 
+Catering Outages: 2   Business Outages: 2   Casual Outages: 2
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 0 Pastry : 0 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 12 Egg: 11 Pastry: 11 
+Sausage: 11 Jelly: 12 
+Closed due to no inventory.
+
+Day 28
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 30 Pastry : 30 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 28 a Casual customer ordered: 
+1 Sausage Roll  1 Egg Roll  1 Pastry Roll  
+For $6.47
+On day 28 a Casual customer ordered: 
+1 Pastry Roll  2 Egg Rolls  
+For $6.47
+On day 28 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 28 a Catering customer ordered: 
+5 Egg Rolls  5 Pastry Rolls  5 Jelly Rolls  
+For $34.85
+On day 28 a Business customer ordered: 
+10 Spring Rolls  10 Egg Rolls  10 Pastry Rolls  
+10 Sausage Rolls  10 Jelly Rolls  
+For $104.5
+On day 28 a Casual customer ordered: 
+1 Pastry Roll  1 Sausage Roll  
+For $4.48
+On day 28 a Casual customer ordered: 
+2 Egg Rolls  
+For $3.98
+On day 28 a Casual customer ordered: 
+2 Jelly Rolls  1 Spring Roll  
+For $6.47
+On day 28 a Business customer ordered: 
+Nothing due to an outtage
+On day 28 a Casual customer ordered: 
+2 Spring Rolls  
+For $2.98
+On day 28 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 28 a Catering customer ordered: 
+6 Spring Rolls  7 Sausage Rolls  1 Pastry Roll  
+1 Jelly Roll  
+For $27.85
+
+Total Money Made Today: $4186.44 
+Catering Sales: $62.7   Business Sales: $209.0   Casual Sales: $33.34
+
+Total Outages Today: 6 
+Catering Outages: 1   Business Outages: 1   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 1 Egg : 0 Pastry : 0 
+Sausage : 1 Jelly : 2 
+
+Inventory Restock Orders Per Roll: 
+Spring: 13 Egg: 12 Pastry: 12 
+Sausage: 12 Jelly: 13 
+Closed due to no inventory.
+
+Day 29
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 1 Egg : 30 Pastry : 30 
+Sausage : 1 Jelly : 2 
+End of Day
+Daily Customer Orders: 
+On day 29 a Casual customer ordered: 
+1 Egg Roll  
+For $1.99
+On day 29 a Casual customer ordered: 
+1 Egg Roll  1 Jelly Roll  
+For $4.48
+On day 29 a Casual customer ordered: 
+1 Pastry Roll  1 Sausage Roll  
+For $4.48
+On day 29 a Casual customer ordered: 
+1 Jelly Roll  1 Egg Roll  1 Spring Roll  
+For $5.97
+On day 29 a Catering customer ordered: 
+8 Pastry Rolls  7 Egg Rolls  
+For $33.85
+On day 29 a Casual customer ordered: 
+1 Pastry Roll  1 Egg Roll  
+For $4.48
+On day 29 a Casual customer ordered: 
+3 Egg Rolls  
+For $5.97
+On day 29 a Casual customer ordered: 
+2 Egg Rolls  1 Pastry Roll  
+For $6.47
+On day 29 a Catering customer ordered: 
+5 Pastry Rolls  10 Egg Rolls  
+For $32.35
+On day 29 a Casual customer ordered: 
+1 Pastry Roll  1 Egg Roll  
+For $4.48
+On day 29 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 29 a Business customer ordered: 
+Nothing due to an outtage
+
+Total Money Made Today: $4293.45 
+Catering Sales: $66.2   Business Sales: $0.0   Casual Sales: $40.81
+
+Total Outages Today: 10 
+Catering Outages: 2   Business Outages: 1   Casual Outages: 3
+
+Inventory Stocks Per Roll: 
+Spring : 0 Egg : 3 Pastry : 12 
+Sausage : 0 Jelly : 0 
+
+Inventory Restock Orders Per Roll: 
+Spring: 13 Egg: 13 Pastry: 13 
+Sausage: 12 Jelly: 13 
+Closed due to no inventory.
+
+Day 30
+
+Start of Day Inventory
+Inventory Stocks Per Roll: 
+Spring : 30 Egg : 3 Pastry : 12 
+Sausage : 30 Jelly : 30 
+End of Day
+Daily Customer Orders: 
+On day 30 a Casual customer ordered: 
+2 Sausage Rolls  1 Pastry Roll  
+For $6.47
+On day 30 a Business customer ordered: 
+Nothing due to an outtage
+On day 30 a Catering customer ordered: 
+5 Sausage Rolls  5 Jelly Rolls  5 Pastry Rolls  
+For $34.85
+On day 30 a Business customer ordered: 
+Nothing due to an outtage
+On day 30 a Casual customer ordered: 
+1 Spring Roll  1 Sausage Roll  
+For $3.48
+On day 30 a Casual customer ordered: 
+1 Sausage Roll  1 Jelly Roll  1 Egg Roll  
+For $6.47
+On day 30 a Casual customer ordered: 
+1 Spring Roll  2 Egg Rolls  
+For $5.47
+On day 30 a Business customer ordered: 
+Nothing due to an outtage
+On day 30 a Casual customer ordered: 
+1 Pastry Roll  1 Jelly Roll  1 Spring Roll  
+For $6.47
+On day 30 a Catering customer ordered: 
+5 Sausage Rolls  5 Jelly Rolls  5 Spring Rolls  
+For $29.85
+On day 30 a Casual customer ordered: 
+1 Sausage Roll  
+For $1.99
+On day 30 a Casual customer ordered: 
+2 Spring Rolls  
+For $2.98
+On day 30 a Casual customer ordered: 
+1 Pastry Roll  2 Spring Rolls  
+For $5.47
+On day 30 a Casual customer ordered: 
+1 Pastry Roll  
+For $2.49
+On day 30 a Casual customer ordered: 
+1 Spring Roll  1 Jelly Roll  1 Pastry Roll  
+For $6.47
+On day 30 a Casual customer ordered: 
+2 Jelly Rolls  1 Sausage Roll  
+For $6.97
+
+Total Money Made Today: $4412.88 
+Catering Sales: $64.7   Business Sales: $0.0   Casual Sales: $54.73
+
+Total Outages Today: 11 
+Catering Outages: 0   Business Outages: 3   Casual Outages: 1
+
+Inventory Stocks Per Roll: 
+Spring : 17 Egg : 0 Pastry : 2 
+Sausage : 14 Jelly : 15 
+
+Inventory Restock Orders Per Roll: 
+Spring: 14 Egg: 13 Pastry: 13 
+Sausage: 13 Jelly: 14 
+Closed due to no inventory.
+End of 30 days Stats
+Sales Per Roll: 
+Springs : 433 Eggs : 420 Pastrys : 418 
+Sausages : 406 Jellys : 435 
+Total Money Made: $4412.88
+Total Number of Orders Impacted by Outtages: 140

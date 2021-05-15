@@ -1,0 +1,27 @@
+Homewrok 6
+
+Kolin Newby
+CSCI4229 Fall 2020
+
+Create scene that uses textures and lighting.
+
+Key bindings
+  l          Toggle lighting on/off
+  m          Toggles texture mode modulate/replace
+  a/A        decrease/increase ambient light
+  d/D        decrease/increase diffuse light
+  s/S        decrease/increase specular light
+  e/E        decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  []         Lower/rise light
+  x          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
+  It took me about 5 hours to complete this assignment.
+
+  ***Sources Cited***
+  This code draws heavily from ex15 given inclass, as well as ex 18 also given in class.
+  I also used the lecture from October 8th to help with this assignment.

@@ -1,0 +1,23 @@
+Homework 2 - Lorenz Attractor
+
+Kolin Newby
+CSCI4229 Fall 2020
+
+Display a Lorenz Attractor with modifiable parameters and adjustable viewing angle
+
+Key bindings
+  s      select s parameter to edit
+  b      select b parameter to edit
+  r      select r parameter to edit
+  +/-    Increase/decrease s, b, or r depending on current selection (sometimes you must hold shift to use '+')
+  arrows Change viewing angle
+  z      Reset Lorenz Parameters
+  0      Reset view angle
+  ESC    Exit
+
+
+Citation
+	-Functions are taken from or based on functions in ex6.c from class and a lorenz.c file provided for this assignment
+
+Time Taken:
+	This assignment took me around 4 hours to complete, but I ran into bug that I couldn't fix so I partially started over.

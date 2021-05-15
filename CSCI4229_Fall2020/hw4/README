@@ -1,0 +1,37 @@
+Homework 4
+
+Kolin Newby
+CSCI4229 Fall 2020
+
+Draw scene and provide a 1st person, perspective, and orthoganal view of said scene
+
+Key bindings
+  1			 		           Select 1st person view
+  2			 		           Select Perspective View
+  3			 		           Select Orthogonal View
+  +/-        		       Changes field of view for perspective
+  a          		       Toggle axes
+  arrows(modes 2 & 3)  Change view angle
+
+  arrows(mode 1)     	 FPV:
+                        up and down arrows move the view forward and backward in scene
+                        left and right arrows rotate views central focus point
+                        
+  PgDn/PgUp or w/s     Zoom in and out
+  0          	    	   Reset view angle
+  ESC        		       Exit
+
+
+!!!Notes!!!
+
+-When switching between 1st person and other views camera view is changed, but switching between orthogonal and perspective views results in the same viewing angle as outlined by the instructions for the assignment.
+
+-Using the arrows to navigate in mode 1 will move you along the x and z axis of the scene, no matter your orientation. It is best to move in the starting angle ('th' or azimuth = 0).
+
+Work Cited:
+
+This homework assignment heavily draws on my personal work from homework 3, from example 9 given in class, and lecture slides also provided in class
+
+Time Taken:
+
+This assignment took me roughly 3 hours and 30 minutes to complete.

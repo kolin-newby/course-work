@@ -1,0 +1,24 @@
+Homework 5
+
+Kolin Newby
+CSCI4229 Fall 2020
+
+Display a basic scene with a light source showing different lighting angles of the scene.
+
+Key bindings
+  l          Toggles lighting
+  m          Toggles light movement
+  []         Lower/rise light
+  p          Toggles ortogonal/perspective projection
+  +/-        Change field of view of perspective
+  a/A        Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
+***This assignment took me around 4 hours to complete***
+
+Cited:
+Code from ex13, given in class, was heavily referenced for the completion of this assignment
+Info on glNormal() from khronos.org was also referenced for the completion of this assignment

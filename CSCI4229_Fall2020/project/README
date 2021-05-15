@@ -1,0 +1,23 @@
+Semester Project
+
+Kolin Newby
+CSCI4229 Fall 2020
+
+Create detailed scene.
+
+Key bindings
+  l          Toggle lighting on/off
+  t          Toggle turntable effect
+  o          Toggle orbit of moon (resets to original position when off)
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  ESC        Exit
+
+To run program:
+  - Use "make" command to compile project in the project folder.
+  - Run the "main" file with the "./main" command.
+  - Use the controls above to minipulate the program.
+
+What to pay to attention to:
+  - The detail achieved in the tower and front part of the house, specifically the top of the tower
+  - The moon model I made with help from class examples, if you do a full rotation in the default view you will see it

@@ -1,0 +1,58 @@
+
+	4.1.
+CREATE TABLE IF NOT EXISTS competition(
+	university_name varchar(40) PRIMARY KEY,
+	date_established INT,
+	address varchar(100),
+	student_pop INT,
+	acceptance_rate DECIMAL(10,2)
+);
+
+	4.2
+INSERT INTO competition
+VALUES ('CU Boulder', 1876, '1100 28th St, Boulder, CO 80303', 35000, 0.80);
+
+	5.1
+SELECT name, major FROM football_players
+ORDER BY major;
+
+	5.2
+SELECT name, rushing_yards FROM football_players
+WHERE rushing_yards > 70;
+
+	5.3
+SELECT * FROM football_games
+WHERE visitor_name = 'Nebraska';
+
+	5.4
+SELECT * FROM football_games
+WHERE home_score > visitor_score;
+
+	5.5
+SELECT visitor_name, game_date FROM football_games
+WHERE game_date >= '2018-09-01' AND game_date <= '2018-11-30';
+
+	5.6
+SELECT AVG(home_score) FROM football_games AS "Average Buff's Score";
+
+	5.7
+SELECT major, COUNT(major) AS "number_of_players" FROM football_players
+GROUP BY major;
+
+	5.8
+SELECT major, COUNT(major) AS "number_of_players" FROM football_players
+WHERE major = 'CSCI'
+GROUP BY major;
+
+	6.1
+CREATE VIEW winning_games AS
+SELECT COUNT(home_score) FROM football_games
+WHERE home_score > visitor_score;
+
+	6.2
+CREATE VIEW games_played AS
+SELECT COUNT(home_score) FROM football_games;
+
+	6.3
+CREATE VIEW win_perc AS
+SELECT (SELECT * FROM winning_games)::Decimal / (SELECT * FROM games_played) * 100;
